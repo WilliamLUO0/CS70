@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/CS705/static/css/main.fa351422.css",
-    "main.js": "/CS705/static/js/main.f6b24184.js",
+    "main.css": "/CS705/static/css/main.e0fc36ea.css",
+    "main.js": "/CS705/static/js/main.2859fbd0.js",
+    "static/media/example.gif": "/CS705/static/media/example.ffce54d075d239dd7a6e.gif",
+    "static/media/fittslaw.jpg": "/CS705/static/media/fittslaw.844c588aa86b3dc94b50.jpg",
     "index.html": "/CS705/index.html",
-    "main.fa351422.css.map": "/CS705/static/css/main.fa351422.css.map",
-    "main.f6b24184.js.map": "/CS705/static/js/main.f6b24184.js.map"
+    "main.e0fc36ea.css.map": "/CS705/static/css/main.e0fc36ea.css.map",
+    "main.2859fbd0.js.map": "/CS705/static/js/main.2859fbd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa351422.css",
-    "static/js/main.f6b24184.js"
+    "static/css/main.e0fc36ea.css",
+    "static/js/main.2859fbd0.js"
   ]
 }
