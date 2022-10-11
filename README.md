@@ -19,7 +19,9 @@ npm install
 npm start
 ```
 ## Tech stack
-
+React (18.2.0) /
+gh-pages(4.0.0) /
+web-vitals(2.1.4) /
 
 
 ## Project Page Feature Completion List
