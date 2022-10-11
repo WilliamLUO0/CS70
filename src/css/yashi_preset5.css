@@ -1,0 +1,33 @@
+        .sec_menu{
+            width: 1200px;
+        }
+        .sec_food{
+            width: 1201px;
+        }
+        .sec_checkout{
+            width: 1200px;
+        }
+        .btnx_menu{
+            width: 1218px;
+            height: 8px;
+        }
+        .btnx_food{
+            width: 164px;
+            height: 34px;
+        }
+        .btnx_checkout{
+            overflow: hidden;
+            width: 957px;
+            height: 66px;
+        }
+                #x {
+            order: 2;
+        }
+  
+        #y {
+            order: 1;
+        }
+  
+        #z {
+            order: 3;
+        }
