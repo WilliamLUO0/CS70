@@ -30,7 +30,9 @@ web-vitals(2.1.4) /
 
 ✅  Pre-test
 
-✅  Food-ordering
+✅  Simulate Food-ordering
+
+✅  Record attempts
 
 ✅  Record Movement time
 
